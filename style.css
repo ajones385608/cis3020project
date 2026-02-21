@@ -1,7 +1,6 @@
 style.css 
 { margin: 10px;
  padding: 5px;
-  background-color: 65BA52;
 }
 h1 {
   font-family: "Luminari", fantasy;
@@ -13,6 +12,7 @@ h1 {
 body {
   font-family: sans-seriff;
   font-color: #FFFFFF;
+  background-color: #65BA52;
   text-align: center;
 }
 
