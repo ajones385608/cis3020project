@@ -1,7 +1,8 @@
 style.css 
-body { margin: 10px;
+body { 
+ background-color: #65BA52;
+ margin: 10px;
  padding: 5px;
- color: #65BA52;
      }
 h1 {
   font-family: "Luminari", fantasy;
