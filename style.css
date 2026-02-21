@@ -1,0 +1,22 @@
+style.css 
+{ margin: 10px;
+ padding: 5px;
+}
+.heading {
+  font-family: "Luminari", fantasy;
+  font-size: 2rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-color: #FFFFFF;
+}
+body {
+  font-family: sans-seriff;
+  background-color: 65BA52;
+  font-color: #FFFFFF;
+  text-align: center;
+}
+
+  
+  
+ 
+  
