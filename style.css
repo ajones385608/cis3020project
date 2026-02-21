@@ -2,7 +2,7 @@ style.css
 { margin: 10px;
  padding: 5px;
 }
-.heading {
+h1 {
   font-family: "Luminari", fantasy;
   font-size: 2rem;
   font-weight: bold;
