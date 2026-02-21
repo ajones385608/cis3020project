@@ -1,6 +1,4 @@
-body{
-  background-color: #65BA52;
-}
+
 h1 {
   font-family: "Luminari", fantasy;
   font-weight: bold;
@@ -13,6 +11,9 @@ p {
   font-family: sans-serif;
  color: #FFFFFF;
   text-align: center;
+}
+body {
+  background-color: #65BA52;
 }
     
 
