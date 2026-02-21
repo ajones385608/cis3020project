@@ -1,18 +1,18 @@
 style.css 
 { margin: 10px;
  padding: 5px;
- background-color: 65BA52;
+ background-color: #65BA52;
 }
 h1 {
   font-family: "Luminari", fantasy;
   font-weight: bold;
   text-transform: uppercase;
   text-align: center;
-  font-color: FFFFFFF;
+  font-color: #FFFFFFF;
 }
 p {
   font-family: sans-serif;
-  font-color: FFFFFF;
+  font-color: #FFFFFF;
   text-align: center;
 }
 
