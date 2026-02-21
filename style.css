@@ -1,21 +1,22 @@
 style.css 
-{ margin: 10px;
+body { margin: 10px;
  padding: 5px;
  background-color: #65BA52;
-}
+
 h1 {
   font-family: "Luminari", fantasy;
   font-weight: bold;
   font-size: x-large;
   text-transform: uppercase;
   text-align: center;
-  font-color: #FFFFFFF;
+  color: #FFFFFF;
 }
 p {
   font-family: sans-serif;
-  font-color: #FFFFFF;
+ color: #FFFFFF;
   text-align: center;
 }
+     }
 
   
   
