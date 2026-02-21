@@ -7,7 +7,7 @@ h1 {
   font-family: "Luminari", fantasy;
   font-weight: bold;
   text-transform: uppercase;
-  align: center;
+  text-align: center;
   font-color: #FFFFFF;
 }
 p {
